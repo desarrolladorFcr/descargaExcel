@@ -3,6 +3,7 @@
 @section('titulo', 'usuarios')
 
 @section('contenido')
+@include('layouts.btnVolver')
 <!--Se inicializa el
 contador-->
 <?php $cont = 0?>
