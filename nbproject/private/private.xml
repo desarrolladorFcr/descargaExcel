@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/generadorInformes/generadorInforme/app/Http/routes.php</file>
+            <file>file:/var/www/html/generadorInformes/generadorInforme/app/Http/Controllers/UsuariosCtr.php</file>
+            <file>file:/var/www/html/generadorInformes/generadorInforme/app/wp_woocommerce_order_itemmeta.php</file>
+            <file>file:/var/www/html/generadorInformes/generadorInforme/app/wp_woocommerce_order_items.php</file>
+            <file>file:/var/www/html/generadorInformes/generadorInforme/resources/views/totalVentas.blade.php</file>
+            <file>file:/var/www/html/generadorInformes/generadorInforme/app/Post.php</file>
+            <file>file:/var/www/html/generadorInformes/generadorInforme/app/usuarios.php</file>
+            <file>file:/var/www/html/generadorInformes/generadorInforme/resources/views/inicioUsuarios.blade.php</file>
+            <file>file:/var/www/html/generadorInformes/generadorInforme/app/Postmeta.php</file>
+            <file>file:/var/www/html/generadorInformes/generadorInforme/config/app.php</file>
+        </group>
+    </open-files>
+</project-private>
