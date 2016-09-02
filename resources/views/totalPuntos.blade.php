@@ -7,7 +7,7 @@
 <!--Se inicializa el
 contador-->
 <?php $cont = 0?>
-<table class="table table-striped >
+<table class="table table-striped" >
     <tr>
         <th>
             ID usuario
