@@ -7,7 +7,7 @@
 <!--Se inicializa el
 contador-->
 <?php $cont = 0?>
-<table border='1'>
+<table border='1' class="table table-striped >
     <tr name = 'nomFilas'>
         <th>
             Fecha
