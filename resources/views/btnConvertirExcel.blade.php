@@ -1,6 +1,6 @@
 
 Para descargar oprima aquí, aparecerá un botón que al oprimirlo descargará el archivo en formato .xls 
-<button id="btndescargainf" class="btn btn-default">
+<button id="btndescargainf" class="btn btn-success">
     Iniciar Proceso
 </button>
 <form action="/descargaExcel" method="post" id="formDescargas">

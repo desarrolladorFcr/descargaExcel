@@ -65,14 +65,14 @@ de columnas-->
 
 {{$usuarios->links()}}
 
-<form action="/verVentas" method="post">
+<form action="/verVentas" method="post" >
     {{csrf_field()}}
-    <input type="submit" value="Ver ventas">
+    <input type="submit" value="Ver ventas" class="btn btn-link">
 </form>
 <br>
 <form action="/verPuntos" method="post">
     {{csrf_field()}}
-    <input type="submit" value="Ver puntos">
+    <input type="submit" value="Ver puntos" class="btn btn-link">
 </form>
 <br><br>
 @include('btnConvertirExcel')
